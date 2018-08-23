@@ -1,6 +1,13 @@
 import java.util.Random;
 import java.util.Scanner;
 
+/**
+* Homework. Java 1. Lesson 4.
+*
+*@author Maxim Silenin
+*@version Aug 23 2018
+*/
+
 class TicTacToe {
 	final int SIZE = 3;
 	final char DOT_X = 'x';
