@@ -1,5 +1,12 @@
 import static java.lang.Integer.parseInt;
 
+/**
+* Homework. Java 2. Lesson 2.
+*
+*@author Maxim Silenin
+*@version Sep 27 2018
+*/
+
 class HWLesson2 {
 	public static void main(String[] args) throws MyArraySizeException, MyArrayDataException {
 		String[][] arr = {{"10A", "20"}, {"30", "40B"}, {"BFA", "1001"}};
